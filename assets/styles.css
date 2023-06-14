@@ -1,0 +1,12 @@
+.figtarea {
+display: flex;
+gap: 20px;
+}
+#char
+#monster {
+    flex: 1;
+}
+.lifebar{
+    height: 10px;
+    border: 1px;
+}
